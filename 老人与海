@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="one.css">
+<title>吟诗一首</title>
+<meta charset="utf-8">
+</head>
+<body>
+<div align="center">
+<h1>闻夜</h1>
+<h2>吴权威</h2>
+<hr width="50%" size="+3" color="red">
+<p><b>秋未到，愁煞百花</b>。<br/>
+<em>寻旧人江河故里，不得见</em>。<br/>
+<s>归梦处，又被风雨扰</s>。<br/>
+<u>无人问，凭栏杆处</u>。<br/>
+把酒言欢，醉佳人醉故人醉生梦死，唯有残夜知我，拂衣去。<br/>
+</h2>
+</p>
+</div>
+<img height="400px" src="D:\前端\闻夜.jpg"
+</body>
+</html>
